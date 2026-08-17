@@ -1,0 +1,9 @@
+Experiment Name: 01_baseline_normal
+Description: Normal server without failures, retry, or circuit breaker
+Failure Mode: reset
+Failure Rate: 0.0
+Delay Seconds: 0.0
+Retry Strategy: no_retry
+Circuit Breaker Enabled: false
+Total Requests: 50
+Run Time: 2026-07-06 21:06:21.693520

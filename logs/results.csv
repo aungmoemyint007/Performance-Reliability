@@ -1,0 +1,11 @@
+request_id,timestamp,start_time,end_time,status_code,latency_seconds,result,error_type,retry_count,retry_strategy,circuit_enabled,circuit_state,circuit_rejected
+1,2026-07-08 20:56:04,1783520764.8936,1783520764.8976,200,0.004,SUCCESS,,0,exponential_backoff_jitter,False,CLOSED,False
+2,2026-07-08 20:56:05,1783520765.0094,1783520765.0273,200,0.0178,SUCCESS,,0,exponential_backoff_jitter,False,CLOSED,False
+3,2026-07-08 20:56:05,1783520765.1329,1783520765.6588,200,0.5258,SUCCESS,,1,exponential_backoff_jitter,False,CLOSED,False
+4,2026-07-08 20:56:05,1783520765.7671,1783520765.7837,200,0.0166,SUCCESS,,0,exponential_backoff_jitter,False,CLOSED,False
+5,2026-07-08 20:56:05,1783520765.8915,1783520766.283,200,0.3915,SUCCESS,,1,exponential_backoff_jitter,False,CLOSED,False
+6,2026-07-08 20:56:06,1783520766.4074,1783520766.4248,200,0.0175,SUCCESS,,0,exponential_backoff_jitter,False,CLOSED,False
+7,2026-07-08 20:56:06,1783520766.5321,1783520766.5484,200,0.0162,SUCCESS,,0,exponential_backoff_jitter,False,CLOSED,False
+8,2026-07-08 20:56:06,1783520766.656,1783520766.9983,200,0.3424,SUCCESS,,1,exponential_backoff_jitter,False,CLOSED,False
+9,2026-07-08 20:56:07,1783520767.1072,1783520767.1241,200,0.017,SUCCESS,,0,exponential_backoff_jitter,False,CLOSED,False
+10,2026-07-08 20:56:07,1783520767.2303,1783520767.2483,200,0.018,SUCCESS,,0,exponential_backoff_jitter,False,CLOSED,False

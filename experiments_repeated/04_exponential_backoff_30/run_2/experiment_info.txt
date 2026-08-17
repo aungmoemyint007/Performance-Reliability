@@ -1,0 +1,10 @@
+Experiment Name: 04_exponential_backoff_30
+Description: 30% random server error with exponential backoff
+Failure Mode: random_error
+Failure Rate: 0.3
+Delay Seconds: 0.0
+Retry Strategy: exponential_backoff
+Circuit Breaker Enabled: false
+Total Requests: 50
+Run Number: 2
+Run Time: 2026-07-08 20:55:12.913670

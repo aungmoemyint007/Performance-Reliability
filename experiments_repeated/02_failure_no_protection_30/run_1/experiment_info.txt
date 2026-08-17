@@ -1,0 +1,10 @@
+Experiment Name: 02_failure_no_protection_30
+Description: 30% random server error without protection
+Failure Mode: random_error
+Failure Rate: 0.3
+Delay Seconds: 0.0
+Retry Strategy: no_retry
+Circuit Breaker Enabled: false
+Total Requests: 50
+Run Number: 1
+Run Time: 2026-07-08 20:53:29.502273

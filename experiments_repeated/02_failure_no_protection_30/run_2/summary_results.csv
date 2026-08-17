@@ -1,0 +1,2 @@
+total_requests,successful_requests,failed_requests,timeout_requests,circuit_rejected_requests,success_ratio,error_ratio,timeout_ratio,circuit_rejection_ratio,average_latency,p95_latency,p99_latency,throughput_rps,total_retries,retry_successes,retry_success_ratio,request_amplification_ratio
+50,33,17,0,0,0.66,0.34,0.0,0.0,0.0169,0.018,0.0182,8.1695,0,0,0,1.0

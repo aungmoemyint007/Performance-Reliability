@@ -1,0 +1,10 @@
+Experiment Name: 09_timeout_simulation_3s
+Description: Server delay 3 seconds with client timeout 2 seconds
+Failure Mode: timeout_simulation
+Failure Rate: 0.0
+Delay Seconds: 3.0
+Retry Strategy: no_retry
+Circuit Breaker Enabled: false
+Total Requests: 50
+Run Number: 3
+Run Time: 2026-07-06 21:34:47.221391

@@ -1,0 +1,10 @@
+Experiment Name: 08_random_delay_1_5s
+Description: Random delay up to 1.5 seconds without retry or circuit breaker
+Failure Mode: random_delay
+Failure Rate: 0.0
+Delay Seconds: 1.5
+Retry Strategy: no_retry
+Circuit Breaker Enabled: false
+Total Requests: 50
+Run Number: 2
+Run Time: 2026-07-06 21:28:33.264906

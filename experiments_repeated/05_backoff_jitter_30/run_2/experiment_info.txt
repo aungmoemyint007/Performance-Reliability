@@ -1,0 +1,10 @@
+Experiment Name: 05_backoff_jitter_30
+Description: 30% random server error with exponential backoff and jitter
+Failure Mode: random_error
+Failure Rate: 0.3
+Delay Seconds: 0.0
+Retry Strategy: exponential_backoff_jitter
+Circuit Breaker Enabled: false
+Total Requests: 50
+Run Number: 2
+Run Time: 2026-07-08 20:56:03.734834
